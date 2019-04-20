@@ -13,8 +13,11 @@ Matching a pair of fragments means finding a position to align the two for the m
 Consider a collection with fragments s1-s4 shown below (extra spaces were inserted between letters for clarity):
 
   s1:   a l l   i s   w e l l
+  
   s2:   e l l   t h a t   e n
+  
   s3:   h a t   e n d
+  
   s4:   t   e n d s   w e l l
 
 On the first round, the longest overlap found is a 6-character overlap between s2 and s3 when aligned as below:
